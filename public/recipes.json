@@ -1,0 +1,98 @@
+[
+  {
+    "recipeImage": "https://i.ibb.co/WB4BWBk/Spaghetti-Carbonara.webp",
+    "recipeName": "Spaghetti Carbonara",
+    "shortDescription": "Classic Italian pasta dish with creamy sauce",
+    "ingredients": ["400g Spaghetti", "3 Eggs", "100g Parmesan cheese"],
+    "preparingTime": 30,
+    "calories": 450
+  },
+  {
+    "recipeImage": "https://i.ibb.co/1R0CH7H/Grilled-Salmon.webp",
+    "recipeName": "Grilled Salmon",
+    "shortDescription": "Healthy and delicious grilled salmon fillet",
+    "ingredients": ["300g Salmon fillet", "2 tbsp Olive oil", "1 Lemon"],
+    "preparingTime": 20,
+    "calories": 300
+  },
+  {
+    "recipeImage": "https://i.ibb.co/bRD0pz1/Vegetable-Stir-Fry.webp",
+    "recipeName": "Vegetable Stir-Fry",
+    "shortDescription": "Quick and easy stir-fried vegetables",
+    "ingredients": ["200g Broccoli", "150g Carrots", "200g Bell peppers"],
+    "preparingTime": 15,
+    "calories": 200
+  },
+  {
+    "recipeImage": "https://i.ibb.co/zxqpzN9/Chicken-Caesar-Salad.webp",
+    "recipeName": "Chicken Caesar Salad",
+    "shortDescription": "Fresh salad with grilled chicken and Caesar dressing",
+    "ingredients": [
+      "400g Chicken breast",
+      "200g Romaine lettuce",
+      "100g Caesar dressing"
+    ],
+    "preparingTime": 25,
+    "calories": 350
+  },
+  {
+    "recipeImage": "https://i.ibb.co/VL50g2v/Homemade-Pizza.jpg",
+    "recipeName": "Homemade Pizza",
+    "shortDescription": "Classic homemade pizza with your favorite toppings",
+    "ingredients": [
+      "400g Pizza dough",
+      "200g Tomato sauce",
+      "250g Mozzarella cheese"
+    ],
+    "preparingTime": 40,
+    "calories": 500
+  },
+  {
+    "recipeImage": "https://i.ibb.co/6WrVJhZ/Beef-Burger.webp",
+    "recipeName": "Beef Burger",
+    "shortDescription": "Juicy beef patty topped with cheese and fresh vegetables",
+    "ingredients": ["500g Ground beef", "4 Hamburger buns", "Lettuce"],
+    "preparingTime": 25,
+    "calories": 550
+  },
+  {
+    "recipeImage": "https://i.ibb.co/jhYDPGd/Vegetable-Lasagna.webp",
+    "recipeName": "Vegetable Lasagna",
+    "shortDescription": "Layers of pasta, vegetables, and creamy sauce baked to perfection",
+    "ingredients": ["Lasagna noodles", "2 Zucchinis", "2 Bell peppers"],
+    "preparingTime": 60,
+    "calories": 400
+  },
+  {
+    "recipeImage": "https://i.ibb.co/88dMPYk/Chicken-Curry.webp",
+    "recipeName": "Chicken Curry",
+    "shortDescription": "Savory chicken cooked in a flavorful curry sauce",
+    "ingredients": [
+      "800g Chicken thighs",
+      "400ml Coconut milk",
+      "50g Curry powder"
+    ],
+    "preparingTime": 45,
+    "calories": 380
+  },
+  {
+    "recipeImage": "https://i.ibb.co/sFn89pM/Caprese-Salad.webp",
+    "recipeName": "Caprese Salad",
+    "shortDescription": "Simple and elegant salad with fresh tomatoes, mozzarella, and basil",
+    "ingredients": [
+      "4 Tomatoes",
+      "200g Mozzarella cheese",
+      "Handful of fresh basil"
+    ],
+    "preparingTime": 15,
+    "calories": 250
+  },
+  {
+    "recipeImage": "https://i.ibb.co/mT7HvTR/Chocolate-Cake.jpg",
+    "recipeName": "Chocolate Cake",
+    "shortDescription": "Decadent chocolate cake with rich frosting, perfect for any occasion",
+    "ingredients": ["4 Eggs", "200g Butter", "200ml Milk"],
+    "preparingTime": 50,
+    "calories": 450
+  }
+]
